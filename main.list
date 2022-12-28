@@ -36,3 +36,7 @@ DOMAIN-KEYWORD,stackoverflow.com
 # youtube
 DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,ytimg.com
+
+# disneyplus
+DOMAIN-KEYWORD,bamgrid.com
+DOMAIN-KEYWORD,disney
