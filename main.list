@@ -1,7 +1,5 @@
 
-# Game
-
-## Discord
+# Discord
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
@@ -9,9 +7,7 @@ DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 
-# Google
-
-## Google Drive
+# Google Drive
 PROCESS-NAME,Backup and Sync
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,Google.Drive*
@@ -22,8 +18,20 @@ DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,www.googleapis.com
 
-## Google Search
+# Google Search
 DOMAIN-KEYWORD,www.google.
 
-## Google Voice
+# Google Voice
 DOMAIN,lens.l.google.com
+
+# stackoverflow
+DOMAIN-KEYWORD,stackoverflow.com
+
+# github
+DOMAIN-KEYWORD,github
+
+# stackoverflow
+DOMAIN-KEYWORD,stackoverflow.com
+
+# youtube
+DOMAIN-KEYWORD,youtube.com
