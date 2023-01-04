@@ -40,3 +40,6 @@ DOMAIN-KEYWORD,ytimg.com
 # disneyplus
 DOMAIN-KEYWORD,bamgrid.com
 DOMAIN-KEYWORD,disney
+
+# Spotify
+DOMAIN-KEYWORD,spotify
