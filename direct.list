@@ -1,0 +1,8 @@
+# macOS App
+PROCESS-NAME,/Library/Input Methods/SogouInput.app/Contents/SogouTaskManager.app/Contents/MacOS/SogouTaskManager
+
+# web
+DOMAIN,api.start.qq.com
+DOMAIN-KEYWORD,apple.com
+DOMAIN,icloud.com
+DOMAIN,www.google-analytics.com

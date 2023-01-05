@@ -1,0 +1,16 @@
+# macOS App
+PROCESS-NAME,/Applications/UUBooster.app/Contents/MacOS/UUBooster
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+
+# web
+DOMAIN-KEYWORD,tieba.baidu
+DOMAIN,cstm.baidu.com
+DOMAIN,sfp.safe.baidu.com
+DOMAIN,pos.baidu.com
+DOMAIN,hm.baidu.com
+DOMAIN,eclick.baidu.com
+DOMAIN,web.facebook.com
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,av
+DOMAIN,18comic
