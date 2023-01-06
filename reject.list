@@ -1,6 +1,5 @@
 # macOS App
-PROCESS-NAME,/Applications/UUBooster.app/Contents/MacOS/UUBooster
-PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
+PROCESS-NAME,/Library/Input Methods/SogouInput.app/Contents/SogouTaskManager.app/Contents/MacOS/SogouTaskManager
 
 # web
 DOMAIN-KEYWORD,tieba.baidu
