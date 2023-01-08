@@ -1,3 +1,6 @@
+# gamer
+gamer.com.tw
+bahamut.com.tw
 
 # Discord
 DOMAIN-SUFFIX,discord.co
@@ -19,10 +22,6 @@ DOMAIN-KEYWORD,stackoverflow.com
 # youtube
 DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,ytimg.com
-
-# disneyplus
-DOMAIN-KEYWORD,bamgrid.com
-DOMAIN-KEYWORD,disney
 
 # Spotify
 DOMAIN-KEYWORD,spotify

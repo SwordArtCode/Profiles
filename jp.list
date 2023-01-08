@@ -9,3 +9,7 @@ DOMAIN,navismithapis.com
 DOMAIN,dmm.com
 DOMAIN,dmm.co.jp
 DOMAIN,gamewith.jp
+
+# pixiv
+DOMAIN-KEYWORD,pximg
+DOMAIN-KEYWORD,pixiv
