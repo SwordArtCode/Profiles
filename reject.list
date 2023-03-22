@@ -12,3 +12,22 @@ DOMAIN,web.facebook.com
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,missav
 DOMAIN,18comic
+
+# baidu
+DOMAIN,baidu
+
+# v2ex ad
+DOMAIN-KEYWORD,wwads
+DOMAIN-KEYWORD,doubleclick
+
+# code
+DOMAIN-KEYWORD,csdn
+
+# tencent's
+
+# sogou input
+DOMAIN-KEYWORD,sogou.com
+DOMAIN-KEYWORD,beacon.qq
+
+# statistics
+DOMAIN,ulogs.umeng.com
