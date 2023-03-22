@@ -14,7 +14,7 @@ DOMAIN-KEYWORD,missav
 DOMAIN,18comic
 
 # baidu
-DOMAIN,baidu
+DOMAIN-KEYWORD,baidu
 
 # v2ex ad
 DOMAIN-KEYWORD,wwads
