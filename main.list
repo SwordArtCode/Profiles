@@ -502,3 +502,8 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+DOMAIN-KEYWORD,microsoft.com
+DOMAIN-KEYWORD,live.com
+
+# game
+DOMAIN-KEYWORD,qoo-app
