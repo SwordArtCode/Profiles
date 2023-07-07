@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,stackoverflow.com
 # youtube
 DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,ytimg.com
+DOMAIN-SUFFIX,youtu.be
 
 # Spotify
 DOMAIN-KEYWORD,spotify
@@ -373,10 +374,9 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
+DOMAIN,xboxlive.com
+DOMAIN,vo.msecnd.net
+DOMAIN-KEYWORD,sharepoint.com
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-KEYWORD,.pinterest.
@@ -507,3 +507,9 @@ DOMAIN-KEYWORD,live.com
 
 # game
 DOMAIN-KEYWORD,qoo-app
+
+# macOS App cleanshot
+DOMAIN,cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com
+
+# mozilla
+DOMAIN-SUFFIX,mozilla.org

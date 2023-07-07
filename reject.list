@@ -31,3 +31,6 @@ DOMAIN-KEYWORD,beacon.qq
 
 # statistics
 DOMAIN,ulogs.umeng.com
+
+# nga
+DOMAIN-KEYWORD,ngabbs,REJECT
