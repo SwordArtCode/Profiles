@@ -15,6 +15,7 @@ DOMAIN,18comic
 
 # baidu
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,tieba.com
 
 # v2ex ad
 DOMAIN-KEYWORD,wwads
@@ -33,4 +34,18 @@ DOMAIN-KEYWORD,beacon.qq
 DOMAIN,ulogs.umeng.com
 
 # nga
-DOMAIN-KEYWORD,ngabbs,REJECT
+DOMAIN-KEYWORD,nga
+
+# uPic
+PROCESS-NAME,/Applications/uPic.app/Contents/MacOS/uPic // 图片处理 uPic
+
+# WPS International Edition
+PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice
+PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr
+
+# qq
+DOMAIN,log.tbs.qq.com
+
+# urbanairship
+DOMAIN,device-api.urbanairship.com
+

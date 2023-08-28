@@ -20,6 +20,8 @@ DOMAIN-KEYWORD,stackoverflow.com
 DOMAIN-KEYWORD,youtube.com
 DOMAIN-KEYWORD,ytimg.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN,snapsave.io // youtube 视频下载
+
 
 # Spotify
 DOMAIN-KEYWORD,spotify
@@ -507,9 +509,22 @@ DOMAIN-KEYWORD,live.com
 
 # game
 DOMAIN-KEYWORD,qoo-app
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-KEYWORD,metacritic
+
 
 # macOS App cleanshot
 DOMAIN,cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com
 
 # mozilla
 DOMAIN-SUFFIX,mozilla.org
+
+# Genshin
+DOMAIN-SUFFIX,akashadata.com // 虚空终端
+DOMAIN-KEYWORD,hoyolab
+
+# npm
+DOMAIN-KEYWORD,npmjs.org // npm
+
+# books
+DOMAIN-KEYWORD,z-lib
