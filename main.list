@@ -511,7 +511,14 @@ DOMAIN-KEYWORD,live.com
 DOMAIN-KEYWORD,qoo-app
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-KEYWORD,metacritic
+# nikke
+DOMAIN-SUFFIX,pages.dev 
+DOMAIN,wiki.nekochantw.xyz
+# playcover
+DOMAIN-SUFFIX,playcover.io,Proxies
 
+# alfredapp
+DOMAIN-SUFFIX,alfredapp.com
 
 # macOS App cleanshot
 DOMAIN,cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com
@@ -528,3 +535,16 @@ DOMAIN-KEYWORD,npmjs.org // npm
 
 # books
 DOMAIN-KEYWORD,z-lib
+# web dev
+DOMAIN-SUFFIX,ant.design
+# github
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,visualstudio.com 
+# 动漫磁力
+DOMAIN,nyaa.si,Proxies
+# bt download
+DOMAIN,bangumi.moe,Proxies
+# movie
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN,backup-prod-ap-northeast-1-platform-xflag-com.s3-ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,notion.so
