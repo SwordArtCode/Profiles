@@ -548,3 +548,6 @@ DOMAIN,bangumi.moe,Proxies
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN,backup-prod-ap-northeast-1-platform-xflag-com.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,notion.so
+
+# 
+DOMAIN,netdna.bootstrapcdn.com

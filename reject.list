@@ -69,3 +69,8 @@ DOMAIN,log-upload.mihoyo.com
 DOMAIN,history.google.com
 DOMAIN,www.google-analytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,hm.baidu.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN,utoken.umeng.com
+DOMAIN,ios-us-crashsight.iegcom.com
+DOMAIN,log-sdk.ksapisrv.com
