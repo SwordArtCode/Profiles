@@ -441,6 +441,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,vine.co
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
@@ -549,5 +550,27 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN,backup-prod-ap-northeast-1-platform-xflag-com.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,notion.so
 
-# 
+# all
 DOMAIN,netdna.bootstrapcdn.com
+DOMAIN-SUFFIX,surveyjs.io
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,foobar2000.org
+DOMAIN-SUFFIX,rclone.org
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN,localsend.org
+DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,do-mi.cc
+DOMAIN-SUFFIX,rargb.to
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN,singlelogin.me
+DOMAIN-SUFFIX,doppiocdn.live
+DOMAIN-SUFFIX,mxomo.com
+DOMAIN-SUFFIX,hotcool.tw
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,flowercloud.net

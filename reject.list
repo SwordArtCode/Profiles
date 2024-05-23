@@ -14,7 +14,6 @@ DOMAIN-KEYWORD,missav
 DOMAIN,18comic
 
 # baidu
-DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tieba.com
 
 # v2ex ad
@@ -74,3 +73,44 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN,utoken.umeng.com
 DOMAIN,ios-us-crashsight.iegcom.com
 DOMAIN,log-sdk.ksapisrv.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN,jdpull-ai.jd.com
+DOMAIN,liventp.jd.com
+DOMAIN,vod.300hu.com
+DOMAIN,mobads.baidu.com
+DOMAIN,pgdt.ugdtimg.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+DOMAIN,ads-api.x.com
+DOMAIN,ads-api.twitter.com
+DOMAIN,hm.baidu.com
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN,api-std.sunlogin.oray.com
+DOMAIN,redirector.gvt1.com
+DOMAIN,bigjpg.com
+DOMAIN,shence-api.mumu.163.com
+DOMAIN,sentry.netease.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN,app-analytics-services.com
+DOMAIN-SUFFIX,log.aliyuncs.com
+DOMAIN,update.googleapis.com
+DOMAIN,analytics.plex.tv
+DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,bncloudfl.com
+DOMAIN-SUFFIX,xlivrdr.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,partwithner.com
+DOMAIN,ogs.google.com
+DOMAIN-SUFFIX,touchbits.com
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN,hmma.baidu.com
+DOMAIN,dxp.baidu.com
+DOMAIN,bgg.baidu.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN,datacollector-drcn.dt.hicloud.com
+DOMAIN-SUFFIX,split.io
+DOMAIN,log.uu.163.com
+DOMAIN-SUFFIX,7littlemen.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,ads.twitter.com
+DOMAIN,hkrpg-log-upload-os.hoyoverse.com
