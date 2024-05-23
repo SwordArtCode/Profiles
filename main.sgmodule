@@ -11,16 +11,16 @@ PayPal = select, Proxies, DIRECT, HK, JP, SG, TW, US
 NIKKE = select, JP, HK, SG, TW, US
 
 [Rule]
+DOMAIN-SUFFIX,home,DEVICE:MINI
+DOMAIN,gemini.google.com,OpenAI
+DOMAIN-SUFFIX,gemini.com,OpenAI
+DOMAIN,generativelanguage.googleapis.com,OpenAI
 OR,((DOMAIN-SUFFIX,intlgame.com), (DOMAIN-KEYWORD,nikke-kr), (DOMAIN-KEYWORD,nikke-en), (DOMAIN-KEYWORD,nikke-jp)),NIKKE
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/reject.list,REJECT-TINYGIF
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/tw.list,TW
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/main.list,Proxies
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/jp.list,JP
-DOMAIN,gemini.google.com,OpenAI
-DOMAIN-SUFFIX,gemini.com,OpenAI
-DOMAIN,generativelanguage.googleapis.com,OpenAI
-DOMAIN-SUFFIX,home,DEVICE:MINI
 
 [Host]
 pc.home = 192.168.31.186
