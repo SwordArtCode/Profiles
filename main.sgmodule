@@ -1,0 +1,5 @@
+#!name=main
+#!desc=For personal use
+
+[Rule]
+DOMAIN-SUFFIX,smzdm.com,REJECT
