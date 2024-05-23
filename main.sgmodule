@@ -8,14 +8,12 @@ client-proxy-name = 🇭🇰 香港高级 IEPL 中继 1
 [Proxy Group]
 OpenAI = select, Proxies, HK, JP, SG, TW, US
 PayPal = select, Proxies, DIRECT, HK, JP, SG, TW, US
-NIKKE = select, JP, HK, SG, TW, US
 
 [Rule]
 DOMAIN-SUFFIX,home,DEVICE:MINI
 DOMAIN,gemini.google.com,OpenAI
 DOMAIN-SUFFIX,gemini.com,OpenAI
 DOMAIN,generativelanguage.googleapis.com,OpenAI
-OR,((DOMAIN-SUFFIX,intlgame.com), (DOMAIN-KEYWORD,nikke-kr), (DOMAIN-KEYWORD,nikke-en), (DOMAIN-KEYWORD,nikke-jp)),NIKKE
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/reject.list,REJECT-TINYGIF
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/tw.list,TW

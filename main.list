@@ -512,9 +512,15 @@ DOMAIN-KEYWORD,live.com
 DOMAIN-KEYWORD,qoo-app
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-KEYWORD,metacritic
+
 # nikke
 DOMAIN-SUFFIX,pages.dev 
 DOMAIN,wiki.nekochantw.xyz
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-KEYWORD,nikke-kr
+DOMAIN-KEYWORD,nikke-en
+DOMAIN-KEYWORD,nikke-jp
+
 # playcover
 DOMAIN-SUFFIX,playcover.io,Proxies
 
