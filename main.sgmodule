@@ -1,6 +1,10 @@
 #!name=main
 #!desc=For personal use
 
+[General]
+enhanced-mode-by-rule = false
+dns-server = 223.6.6.6, 223.5.5.5, 8.8.8.8, system
+
 [Ponte]
 server-proxy-name = 🇭🇰 香港高级 IEPL 中继 1
 client-proxy-name = 🇭🇰 香港高级 IEPL 中继 1
