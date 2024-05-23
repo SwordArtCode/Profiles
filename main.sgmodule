@@ -1,5 +1,6 @@
 #!name=main
 #!desc=For personal use
+#!default=enabled
 
 [General]
 # macOS Only
