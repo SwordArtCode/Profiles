@@ -1,0 +1,7 @@
+
+[Proxy]
+alistHome = http, 192.168.31.3, 5244
+
+[Rule]
+DOMAIN,alist.zerotwo.moe,alistHome
+
