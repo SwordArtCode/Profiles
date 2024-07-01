@@ -18,7 +18,6 @@ DOMAIN,gemini.google.com,OpenAI
 DOMAIN-SUFFIX,gemini.com,OpenAI
 DOMAIN,generativelanguage.googleapis.com,OpenAI
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/direct.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/reject.list,REJECT-TINYGIF
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/tw.list,TW
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/main.list,Proxies
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/jp.list,JP
