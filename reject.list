@@ -38,10 +38,6 @@ DOMAIN-KEYWORD,nga
 # uPic
 PROCESS-NAME,/Applications/uPic.app/Contents/MacOS/uPic // 图片处理 uPic
 
-# WPS International Edition
-PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice
-PROCESS-NAME,/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr
-
 # qq
 DOMAIN,log.tbs.qq.com
 
@@ -114,3 +110,10 @@ DOMAIN-SUFFIX,7littlemen.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN,hkrpg-log-upload-os.hoyoverse.com
+
+# jetbrains
+
+DOMAIN,datalore.jetbrains.com
+DOMAIN,resources.jetbrains.com
+DOMAIN,crash-reporter.jetbrains.com
+DOMAIN,customers.jetbrains.com
