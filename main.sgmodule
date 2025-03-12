@@ -20,7 +20,7 @@ DOMAIN,generativelanguage.googleapis.com,OpenAI
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/tw.list,TW
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/main.list,Proxies
-RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/jp.list,JP
+# RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/jp.list,JP
 
 [Host]
 pc.home = 192.168.31.186
