@@ -32,9 +32,6 @@ DOMAIN-KEYWORD,beacon.qq
 # statistics
 DOMAIN,ulogs.umeng.com
 
-# nga
-DOMAIN-KEYWORD,nga
-
 # uPic
 PROCESS-NAME,/Applications/uPic.app/Contents/MacOS/uPic // 图片处理 uPic
 
@@ -117,3 +114,53 @@ DOMAIN,datalore.jetbrains.com
 DOMAIN,resources.jetbrains.com
 DOMAIN,crash-reporter.jetbrains.com
 DOMAIN,customers.jetbrains.com
+DOMAIN,suggestion.baidu.com
+DOMAIN,log.tailscale.io
+DOMAIN,ada.baidu.com
+DOMAIN,dm.toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN,api-audit.heytapmobi.com
+DOMAIN,api.open.oppomobile.com
+DOMAIN-SUFFIX,zenithspace.net
+PROCESS-NAME,/Applications/Xmind.app/Contents/MacOS/Xmind
+DOMAIN-SUFFIX,xmind.net
+DOMAIN,browser.sentry-cdn.com
+DOMAIN-SUFFIX,adjust.world
+DOMAIN-SUFFIX,adjust.net.in
+IP-CIDR,223.109.148.177/32
+IP-CIDR,203.205.235.53/32
+IP-CIDR,47.246.109.108/32
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,zspace.cn
+IP-CIDR,180.119.170.149/32
+DOMAIN-SUFFIX,mindnode.com
+IP-CIDR,180.119.170.153/32
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,exp-tas.com
+DOMAIN-SUFFIX,gitkraken.dev
+DOMAIN,libraweb-va.tiktok.com
+DOMAIN-SUFFIX,myavlive.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN,hm.baidu.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,mdvdns.com
+DOMAIN-SUFFIX,misumi.com.cn
+DOMAIN-SUFFIX,03u.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,okaapps.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,iluoxiao.com
+DOMAIN-SUFFIX,sketch.cloud
+DOMAIN-SUFFIX,zed.dev
+DOMAIN,api-partner.spotify.com
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,178.com
+DOMAIN,update.pan.baidu.com
+DOMAIN-SUFFIX,parallels.cn
+DOMAIN-SUFFIX,zenithspace.net
+DOMAIN,analytics.plex.tv
+DOMAIN-SUFFIX,ingest.us.sentry.io

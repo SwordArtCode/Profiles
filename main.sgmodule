@@ -13,15 +13,8 @@ OpenAI = select, Proxies, HK, JP, SG, TW, US
 PayPal = select, Proxies, DIRECT, HK, JP, SG, TW, US
 
 [Rule]
-DOMAIN-SUFFIX,home,DEVICE:MINI
-DOMAIN,gemini.google.com,OpenAI
-DOMAIN-SUFFIX,gemini.com,OpenAI
-DOMAIN,generativelanguage.googleapis.com,OpenAI
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/tw.list,TW
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/main.list,Proxies
 RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/jp.list,JP
-
-[Host]
-pc.home = 192.168.31.186
-zerotwo.home = 192.168.31.168
+RULE-SET,https://raw.githubusercontent.com/SwordArtCode/Profiles/main/ai.list,OpenAI
