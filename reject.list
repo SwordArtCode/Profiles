@@ -82,7 +82,6 @@ DOMAIN,sentry.netease.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,log.aliyuncs.com
-DOMAIN,update.googleapis.com
 DOMAIN,analytics.plex.tv
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,bncloudfl.com
