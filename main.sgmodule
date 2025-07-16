@@ -6,7 +6,6 @@
 # macOS Only
 enhanced-mode-by-rule = false
 #dns-server = 223.5.5.5, 223.6.6.6, 8.8.8.8, system
-enhanced-mode-by-rule = false
 
 [Proxy Group]
 OpenAI = select, Proxies, HK, JP, SG, TW, US

@@ -2,3 +2,25 @@ DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,jetbrains.com
+
+# Added from todo.md processing
+DOMAIN,files.oaiusercontent.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,dify.ai

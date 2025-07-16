@@ -13,3 +13,7 @@ DOMAIN-KEYWORD,pixiv
 
 DOMAIN-SUFFIX,ototoy.jp
 DOMAIN-SUFFIX,mora.jp
+
+# Added from todo.md processing
+DOMAIN,ciciai.com
+DOMAIN-SUFFIX,cici.com

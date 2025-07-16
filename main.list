@@ -521,7 +521,7 @@ DOMAIN-KEYWORD,nikke-en
 DOMAIN-KEYWORD,nikke-jp
 
 # playcover
-DOMAIN-SUFFIX,playcover.io,Proxies
+DOMAIN-SUFFIX,playcover.io
 
 # alfredapp
 DOMAIN-SUFFIX,alfredapp.com
@@ -547,9 +547,9 @@ DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,visualstudio.com 
 # 动漫磁力
-DOMAIN,nyaa.si,Proxies
+DOMAIN,nyaa.si
 # bt download
-DOMAIN,bangumi.moe,Proxies
+DOMAIN,bangumi.moe
 # movie
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN,backup-prod-ap-northeast-1-platform-xflag-com.s3-ap-northeast-1.amazonaws.com
@@ -581,7 +581,6 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,crystalmark.info
 DOMAIN-SUFFIX,dockerstatic.com
-DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN,rocm.docs.amd.com
@@ -618,7 +617,6 @@ DOMAIN,swr.vercel.app
 DOMAIN,api.zed.dev
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,charliemonroe.net
-DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
@@ -626,3 +624,41 @@ DOMAIN-SUFFIX,erji.net
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,appstorrent.ru
+
+# Added from todo.md processing
+DOMAIN-SUFFIX,context7.com
+DOMAIN-SUFFIX,umijs.org
+DOMAIN-SUFFIX,shadcn.org.cn
+DOMAIN-SUFFIX,pnpm.io
+DOMAIN-SUFFIX,tanstack.com
+DOMAIN-SUFFIX,tauri.app
+DOMAIN-SUFFIX,radix-ui.com
+DOMAIN-SUFFIX,shadcn.com
+DOMAIN-SUFFIX,macwk.com.cn
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,cline.bot
+DOMAIN-SUFFIX,upstash.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,daisysms.com
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,ailora.edu.kg
+DOMAIN-SUFFIX,opencat.app
+DOMAIN-SUFFIX,telemetrydeck.com
+DOMAIN-SUFFIX,stickytimers.app
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,nondesu.jp
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,giffgaff.com
+IP-CIDR,149.154.167.151/32,no-resolve
+IP-CIDR,5.28.195.1/32,no-resolve
+PROCESS-NAME,"/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/137.0.7151.41/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"

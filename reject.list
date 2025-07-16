@@ -222,3 +222,36 @@ DOMAIN-SUFFIX,alog.umeng.com,REJECT
 DOMAIN-SUFFIX,tdata.talkingdata.net,REJECT
 DOMAIN-SUFFIX,sdk.jiguang.cn,REJECT
 DOMAIN-SUFFIX,stats.jpush.cn,REJECT
+
+# Added from todo.md processing
+DOMAIN-SUFFIX,frankfurter.app
+IP-CIDR,183.61.225.73/32,no-resolve
+IP-CIDR,116.163.33.41/32,no-resolve
+IP-CIDR,121.5.84.85/32,no-resolve
+IP-CIDR,114.110.96.26/32,no-resolve
+IP-CIDR,114.110.97.97/32,no-resolve
+DOMAIN,dl3.xmind.cn
+DOMAIN-KEYWORD,rcpc-sdk-access
+DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,heytapimage.com
+DOMAIN,wetype.weixin.qq.com
+DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN,retcode.taobao.com
+DOMAIN-SUFFIX,appcloudcdn.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,chaincloud.top
+PROCESS-NAME,"/Applications/CleanShot X.app/Contents/MacOS/CleanShot X"
+DOMAIN-SUFFIX,maketheweb.io
+SRC-IP,192.168.1.89
+DOMAIN,applog.lc.quark.cn
+DOMAIN,log.m.sm.cn
+DOMAIN-SUFFIX,advlion.com
+DOMAIN,pop.pcsnetwork.netdisk.baidu.com
+DOMAIN,jp.ad.gameley.com
+DOMAIN,log-api.pangolin-sdk-toutiao-b.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,mssdk.volces.com
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+DOMAIN-SUFFIX,ingest.de.sentry.io
+DOMAIN-SUFFIX,baidu.com

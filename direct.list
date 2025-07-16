@@ -8,11 +8,11 @@ DOMAIN-KEYWORD,apple.com
 DOMAIN,icloud.com
 
 # 百度网盘
-DOMAIN,allall01.baidupcs.com,DIRECT // 百度网盘
-DOMAIN,d.pcs.baidu.com,DIRECT // 百度网盘
-DOMAIN,pan.baidu.com,DIRECT // 百度网盘
-DOMAIN,openapi.baidu.com,DIRECT // 百度帐户授权
-DOMAIN,thumbnail0.baidupcs.com,DIRECT // 百度网盘
+DOMAIN,allall01.baidupcs.com // 百度网盘
+DOMAIN,d.pcs.baidu.com // 百度网盘
+DOMAIN,pan.baidu.com // 百度网盘
+DOMAIN,openapi.baidu.com // 百度帐户授权
+DOMAIN,thumbnail0.baidupcs.com // 百度网盘
 DOMAIN,pan.baidu.com
 
 # 百度地图
@@ -20,3 +20,13 @@ DOMAIN-KEYWORD,api.map.baidu.com
 
 # 百度百科
 DOMAIN-SUFFIX,baike.baidu.com
+
+# Added from todo.md processing
+DOMAIN,v3-ant.baidu.com
+DOMAIN-SUFFIX,pcs.baidu.com
+DOMAIN-SUFFIX,lbs.baidu.com
+DOMAIN-SUFFIX,lbsyun.baidu.com
+DOMAIN,wappass.baidu.com
+DOMAIN,pan.baidu.com
+DOMAIN-SUFFIX,map.baidu.com
+DOMAIN,passport.baidu.com
