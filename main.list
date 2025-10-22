@@ -655,10 +655,15 @@ DOMAIN-SUFFIX,ailora.edu.kg
 DOMAIN-SUFFIX,opencat.app
 DOMAIN-SUFFIX,telemetrydeck.com
 DOMAIN-SUFFIX,stickytimers.app
-DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,nondesu.jp
 DOMAIN-SUFFIX,longbridge.com
-DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,apache.org // Apache 基金会
+DOMAIN-SUFFIX,threejs.org // Three.js 3D 库
+DOMAIN-SUFFIX,huangz.works // 黄健宏的个人网站
+DOMAIN-SUFFIX,diagrams.net // 在线画图工具
+DOMAIN-SUFFIX,intervals.icu // 运动训练数据分析
+DOMAIN-SUFFIX,vite.dev // Vite 构建工具
+DOMAIN-SUFFIX,workers.dev // Cloudflare Workers
 IP-CIDR,149.154.167.151/32,no-resolve
 IP-CIDR,5.28.195.1/32,no-resolve
 PROCESS-NAME,"/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/137.0.7151.41/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"

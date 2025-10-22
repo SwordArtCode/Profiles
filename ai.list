@@ -20,7 +20,8 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,jetbrains.com
 
 # Added from todo.md processing
-DOMAIN,files.oaiusercontent.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,genspark.ai
-DOMAIN-SUFFIX,dify.ai
+DOMAIN,files.oaiusercontent.com // OpenAI 文件存储
+DOMAIN-SUFFIX,oaiusercontent.com // OpenAI 用户内容
+DOMAIN-SUFFIX,genspark.ai // Genspark AI
+DOMAIN-SUFFIX,dify.ai // Dify AI
+DOMAIN-SUFFIX,kiro.dev // Kiro AI

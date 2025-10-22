@@ -224,34 +224,56 @@ DOMAIN-SUFFIX,sdk.jiguang.cn,REJECT
 DOMAIN-SUFFIX,stats.jpush.cn,REJECT
 
 # Added from todo.md processing
-DOMAIN-SUFFIX,frankfurter.app
+DOMAIN-SUFFIX,frankfurter.app // 汇率 API（拒绝）
 IP-CIDR,183.61.225.73/32,no-resolve
 IP-CIDR,116.163.33.41/32,no-resolve
 IP-CIDR,121.5.84.85/32,no-resolve
 IP-CIDR,114.110.96.26/32,no-resolve
 IP-CIDR,114.110.97.97/32,no-resolve
-DOMAIN,dl3.xmind.cn
-DOMAIN-KEYWORD,rcpc-sdk-access
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,heytapimage.com
-DOMAIN,wetype.weixin.qq.com
-DOMAIN-SUFFIX,oppomobile.com
-DOMAIN-SUFFIX,heytapmobi.com
-DOMAIN,retcode.taobao.com
-DOMAIN-SUFFIX,appcloudcdn.com
-DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN-SUFFIX,chaincloud.top
-PROCESS-NAME,"/Applications/CleanShot X.app/Contents/MacOS/CleanShot X"
-DOMAIN-SUFFIX,maketheweb.io
-SRC-IP,192.168.1.89
-DOMAIN,applog.lc.quark.cn
-DOMAIN,log.m.sm.cn
-DOMAIN-SUFFIX,advlion.com
-DOMAIN,pop.pcsnetwork.netdisk.baidu.com
-DOMAIN,jp.ad.gameley.com
-DOMAIN,log-api.pangolin-sdk-toutiao-b.com
-DOMAIN,mobads-logs.baidu.com
-DOMAIN,mssdk.volces.com
-DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
-DOMAIN-SUFFIX,ingest.de.sentry.io
-DOMAIN-SUFFIX,baidu.com
+DOMAIN,dl3.xmind.cn // Xmind 下载
+DOMAIN-KEYWORD,rcpc-sdk-access // SDK 访问
+DOMAIN,graph.facebook.com // Facebook Graph API
+DOMAIN-SUFFIX,heytapimage.com // OPPO 广告
+DOMAIN,wetype.weixin.qq.com // 微信输入法
+DOMAIN-SUFFIX,oppomobile.com // OPPO 移动服务
+DOMAIN-SUFFIX,heytapmobi.com // OPPO HeyTap
+DOMAIN,retcode.taobao.com // 淘宝统计
+DOMAIN-SUFFIX,appcloudcdn.com // 应用云 CDN
+DOMAIN,firebaseinstallations.googleapis.com // Firebase 安装
+DOMAIN-SUFFIX,chaincloud.top // 区块链云
+PROCESS-NAME,"/Applications/CleanShot X.app/Contents/MacOS/CleanShot X" // CleanShot X 进程
+DOMAIN-SUFFIX,maketheweb.io // 网站分析
+SRC-IP,192.168.1.89 // 本地 IP 拒绝
+DOMAIN,applog.lc.quark.cn // 夸克浏览器日志
+DOMAIN,log.m.sm.cn // UC 浏览器日志
+DOMAIN-SUFFIX,advlion.com // 字节跳动广告平台
+DOMAIN,pop.pcsnetwork.netdisk.baidu.com // 百度网盘弹窗
+DOMAIN,jp.ad.gameley.com // 游戏广告
+DOMAIN,log-api.pangolin-sdk-toutiao-b.com // 穿山甲广告 SDK
+DOMAIN,mobads-logs.baidu.com // 百度移动广告日志
+DOMAIN,mssdk.volces.com // 火山引擎 SDK
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com // 百度移动广告配置
+DOMAIN-SUFFIX,ingest.de.sentry.io // Sentry 错误追踪
+DOMAIN-SUFFIX,baidu.com // 百度（通用拒绝）
+PROCESS-NAME,"/Applications/Adobe Photoshop 2025/Adobe Photoshop 2025.app/Contents/MacOS/Adobe Photoshop 2025" // Adobe Photoshop 2025
+DOMAIN-SUFFIX,adjust.io // Adjust 广告追踪
+DOMAIN-SUFFIX,z-lib.id // Z-Library（侵权网站）
+DOMAIN-SUFFIX,google-analytics.com // Google Analytics
+DOMAIN,update.googleapis.com // Google 更新服务
+DOMAIN,metrics.icloud.com // iCloud 指标
+DOMAIN,metrics.apple.com // Apple 指标
+DOMAIN,metrics.mzstatic.com // Apple 静态资源指标
+DOMAIN,xp.apple.com // Apple XP
+DOMAIN,feedbackws.icloud.com // iCloud 反馈
+DOMAIN,gsa.apple.com // Apple GSA
+DOMAIN,gsp-ssl.ls.apple.com // Apple GSP SSL
+DOMAIN,bag.itunes.apple.com // iTunes Bag
+DOMAIN,metrics.apple-dns.net // Apple DNS 指标
+DOMAIN,books-analytics-events.apple.com // Apple Books 分析
+DOMAIN,metrics.iadsdk.apple.com // Apple iAd SDK 指标
+DOMAIN,metrics.iads.apple.com // Apple iAds 指标
+DOMAIN,iadsdk.apple.com // Apple iAd SDK
+DOMAIN,iadsdk.apple.com.edgekey.net // Apple iAd SDK EdgeKey
+DOMAIN,iad.apple.com // Apple iAd
+DOMAIN,app-analytics-services.apple.com // Apple 应用分析服务
+DOMAIN-SUFFIX,coloros.com // ColorOS（OPPO）

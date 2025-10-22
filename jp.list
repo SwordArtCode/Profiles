@@ -15,5 +15,11 @@ DOMAIN-SUFFIX,ototoy.jp
 DOMAIN-SUFFIX,mora.jp
 
 # Added from todo.md processing
-DOMAIN,ciciai.com
-DOMAIN-SUFFIX,cici.com
+DOMAIN,ciciai.com // Cici AI（日本）
+DOMAIN-SUFFIX,cici.com // Cici AI
+DOMAIN-SUFFIX,qwen.ai // 通义千问 AI
+DOMAIN-SUFFIX,bluearchive.jp // 蔚蓝档案日服
+DOMAIN-SUFFIX,bluearchiveyostar.com // 蔚蓝档案 Yostar
+DOMAIN-SUFFIX,yostar.co.jp // Yostar 日本
+DOMAIN-SUFFIX,geetest.com // 极验证码（日本节点）
+DOMAIN-SUFFIX,reona-reona.com // Reona 网站
