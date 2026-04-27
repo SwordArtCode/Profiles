@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,augmentcode.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,jetbrains.com
 
 # Added from todo.md processing
